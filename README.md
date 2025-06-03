@@ -2,7 +2,7 @@
 
 <h1 align="center">hg.studio Launcher</h1>
 
-[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/kipawepro/KittyTownLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/kipawepro/hg.studioLauncher/actions) [<img src="https://img.shields.io/github/downloads/kipawepro/KittyTownLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/kipawepro/hg.studioLauncher/releases)</p>
+[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/kipawepro/hg.studioLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/kipawepro/hg.studioLauncher/actions) [<img src="https://img.shields.io/github/downloads/kipawepro/hg.studioLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/kipawepro/hg.studioLauncher/releases)</p>
 
 <p align="center">Participe a nos evenement minecraft en un seul clic !</p>
 
