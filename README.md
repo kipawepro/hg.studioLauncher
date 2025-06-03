@@ -6,8 +6,8 @@
 
 <p align="center">Participe a nos evenement minecraft en un seul clic !</p>
 
-![Screenshot 1](https://imgur.com/T3RAIAS.png)
-![Screenshot 2](https://imgur.com/anuOqQF.png)
+![Screenshot 1](https://imgur.com/Y9SBIf4.png)
+![Screenshot 2](https://imgur.com/wdSP0ki.png)
 
 ## Fonctionalité
 
