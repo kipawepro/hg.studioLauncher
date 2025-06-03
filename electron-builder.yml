@@ -1,4 +1,4 @@
-appId: 'hg.oostudioLauncher'
+appId: 'hg.studioLauncher'
 productName: 'hg_studio-Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
