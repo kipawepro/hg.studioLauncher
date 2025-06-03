@@ -44,7 +44,7 @@ Telecharger le launcher depuis l'onglet [Releases](https://github.com/kipawepro/
 
 | Platform | File |
 | -------- | ---- |
-| Windows x64 | `hg_oo-Launcher-setup-VERSION.exe` |
+| Windows x64 | `hg_studio-Launcher-setup-VERSION.exe` |
 | macOS x64 | ❌ |
 | macOS arm64 | ❌ |
 | Linux x64 | ❌ |

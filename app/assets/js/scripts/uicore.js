@@ -27,8 +27,8 @@ window.eval = global.eval = function () {
 
 // Display warning when devtools window is opened.
 remote.getCurrentWebContents().on('devtools-opened', () => {
-    console.log('%cCALM DOWN', 'color: white; -webkit-text-stroke: 4px #a02d2a; font-size: 60px; font-weight: bold')
-    console.log('%cplease close the console if you dont know what are you doing, please open a ticket instead', 'font-size: 16px')
+    console.log('%cDOUCEMENT', 'color: white; -webkit-text-stroke: 4pxrgb(81, 42, 88); font-size: 60px; font-weight: bold')
+    console.log('%cne pas toucher si vous ne connaissez pas svp.', 'font-size: 16px')
 })
 
 // Disable zoom, needed for darwin.
@@ -48,7 +48,7 @@ if(!isDev){
                 loggerAutoUpdater.info('New update available', info.version)
                 
                 if(process.platform === 'darwin'){
-                    info.darwindownload = `https://github.com/dscalzi/HeliosLauncher/releases/download/v${info.version}/Helios-Launcher-setup-${info.version}${process.arch === 'arm64' ? '-arm64' : '-x64'}.dmg`
+                    info.darwindownload = `https://github.com/kipawepro/hg.studioLauncher/releases/download/v${info.version}/hg_studio-Launcher-setup-${info.version}${process.arch === 'arm64' ? '-arm64' : '-x64'}.dmg`
                     showUpdateUI(info)
                 }
                 

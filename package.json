@@ -1,13 +1,13 @@
 {
-    "name": "hg.oostudiolauncher",
-    "version": "2.0.7",
-    "productName": "hg.ooStudioLauncher",
-    "description": "Launcher de hg.oo studio & Dreamtown",
-    "author": "hg.oo (https://github.com/kipawepro)",
+    "name": "hg.studiolauncher",
+    "version": "2.0.0",
+    "productName": "hg.studioLauncher",
+    "description": "Launcher par hg.studio & Dreamtown",
+    "author": "hg.oo (https://github.com/kipawepro/hg.studioLauncher)",
     "license": "UNLICENSED",
-    "homepage": "https://github.com/kipawepro",
+    "homepage": "https://github.com/kipawepro/hg.studioLauncher",
     "bugs": {
-        "url": "https://github.com/kipawepro/issues"
+        "url": "https://github.com/kipawepro/hg.studioLauncher/issues"
     },
     "private": true,
     "main": "index.js",
@@ -47,6 +47,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kipawepro.git"
+        "url": "git+https://github.com/kipawepro/hg.studioLauncher.git"
     }
 }

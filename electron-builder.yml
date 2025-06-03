@@ -1,5 +1,5 @@
-appId: 'hg.ooStudioLauncher'
-productName: 'hg.oo Studio Launcher'
+appId: 'hg.oostudioLauncher'
+productName: 'hg_studio-Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024-2025 hg.oo'
