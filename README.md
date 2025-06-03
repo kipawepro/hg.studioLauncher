@@ -1,4 +1,4 @@
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
+<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="hg.studio"></p>
 
 <h1 align="center">hg.studio Launcher</h1>
 
@@ -57,7 +57,7 @@ Telecharger le launcher depuis l'onglet [Releases](https://github.com/kipawepro/
 Si besoin d'aide, discord reste la meilleur option pour nous contacter.
 Ou depuis notre site : [Site officiel de la Dreamtown][Dreamtown]
 
-[![discord](https://discordapp.com/api/guilds/970425627649925170/embed.png?style=banner3)][discord]
+[![discord](https://discordapp.com/api/guilds/1378071353034543336/embed.png?style=banner3)][discord]
 
 ---
 
@@ -65,7 +65,7 @@ Ou depuis notre site : [Site officiel de la Dreamtown][Dreamtown]
 
 ---
 
-[discord]: https://discord.gg/https://discord.gg/Qd9tSfXt6f 'Discord'
+[discord]: https://discord.gg/Qd9tSfXt6f 'Discord'
 [wiki]: https://github.com/kipawepro/KittyTownLauncher/wiki 'wiki'
-[kittyteam]: https://dreamtown.strator.gg/ 'Dreamtown'
+[Dreamtown]: https://dreamtown.strator.gg/ 'Dreamtown'
 [hgoo]: https://discord.gg/X9MhfxjyJU 'hg.studio'
