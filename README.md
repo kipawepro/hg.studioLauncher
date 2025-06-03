@@ -18,8 +18,6 @@
 * ⬇️ installation simple et efficace.
   * Seulement quelques clics pour installer et lancer un modpack!
   * auto-réparation des fichier manquant ou casser ! (réinstallation du fichier).
-* 📰 Reste a jours !
-  * Utilisation de la technologie RSS permettant de recevoir automatiquement les dernières actualités.
 * ⚙️ Paramètre complet.
   * Des paramètres simples complets. 
 * 🔄Mise a jours du launcher automatique (En dev).
