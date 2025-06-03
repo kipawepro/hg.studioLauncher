@@ -1,0 +1,29 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "hg.oo StudioLauncher"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/kipawepro/DreamTownLauncher"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/Qd9tSfXt6f"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/kipawepro/DreamTownLauncher"
+supportLink = "https://github.com/kipawepro/DreamTownLauncher/issues"
+selectLanguage = "Select a Language"
+changeLanguageTitle = "Change the launcher language"
+changeLanguageDesc = "You can change the language in the list below. This text will not change if you change the language so you can find your wayback here to change it back"
+
+[ejs.welcome]
+welcomeHeader = "BIENVENUE A DREAMTOWN"
+welcomeDescription = """
+Notre mission chez DreamTown est de créer un serveur semi-RP chill et accueillant, où chaque joueur peut s’amuser à son rythme, développer son personnage, et vivre des aventures immersives sans pression.
+Nous mettons un point d’honneur à offrir une expérience de jeu équilibrée, axée sur le respect, la créativité, et la convivialité.
+Que tu sois un vétéran du RP ou un nouveau curieux, DreamTown est l’endroit idéal pour te détendre, t’amuser, et faire partie d’une communauté bienveillante.
+"""
+
+[ejs.overlay]
+changedLanguageHeader = "You changed the previous language"
