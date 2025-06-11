@@ -4348,3 +4348,7 @@ input:checked+.toggleSwitchSlider:before {
         bottom: 100%;
     }
 }
+
+body {
+  overflow: hidden;
+}
