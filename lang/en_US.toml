@@ -20,7 +20,7 @@ newsErrorNoneSpan = "No News"
 
 [ejs.login]
 loginCancelText = "Cancel"
-loginSubheader = "DREAMTOWNN LOGIN"
+loginSubheader = "DREAMTOWN LOGIN"
 loginEmailError = "* Invalid Value"
 loginEmailPlaceholder = "USERNAME"
 loginPasswordError = "* Required"
