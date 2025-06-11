@@ -42,8 +42,8 @@ linux:
   target: 'AppImage'
   maintainer: 'hg.oo'
   vendor: 'hg.oo'
-  synopsis: 'hg.oo Studios Minecraft Launcher'
-  description: 'Official Launchcer of hg.oo And Dreamtown'
+  synopsis: 'hg.studios Minecraft Launcher'
+  description: 'Official Launchcer of hg.studio And Dreamtown'
   category: 'Game'
 
 
